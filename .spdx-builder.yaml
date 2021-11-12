@@ -1,0 +1,6 @@
+document:
+  title: "sample project spdx-action"
+  organization: "Philips Research"
+  comment: "This is an experimental tool"
+  key:
+  namespace: "https://research.philips.com/spdx-action"
